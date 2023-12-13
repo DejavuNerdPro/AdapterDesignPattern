@@ -1,0 +1,6 @@
+Componenets :
+Expectation Interface => MediaPalyer
+Real Perform classes => AdvancedMedia and AdvancedHighResolutionMedia
+Adapter class=> Adapter 
+
+Adapter Class update the performance of Real Perform class from the existing Expectation class.
